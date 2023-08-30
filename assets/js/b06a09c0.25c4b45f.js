@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[962],{89:(e,t,n)=>{n.r(t),n.d(t,{default:()=>s});var i=n(7294),r=n(2263),l=n(7961);function s(){const{siteConfig:e}=(0,r.Z)();return i.createElement(l.Z,{title:"Imprint",description:"Bunkr Imprint"},i.createElement("main",null,i.createElement("h1",null,"Imprint")))}}}]);
