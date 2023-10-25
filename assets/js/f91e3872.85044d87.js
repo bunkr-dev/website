@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9132],{5424:e=>{e.exports=JSON.parse('{"label":"styleguide","permalink":"/docs/tags/styleguide","allTagsPath":"/docs/tags","count":1,"items":[{"id":"contributing/styleguide","title":"Style Guide","description":"Style guide for contributing to Bunkr.","permalink":"/docs/contributing/styleguide"}]}')}}]);
